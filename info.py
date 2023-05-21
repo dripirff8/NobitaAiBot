@@ -1,8 +1,8 @@
-API_ID       = 
-API_HASH     = ""
-BOT_TOKEN    = ""
-SESSION      = ""
-DATABASE_URI = ""
-LOG_CHANNEL  = -1001884373226
-ADMIN        = 1350642629
-CHANNEL      = "@GreyMatter_Bots"
+API_ID       = 22779749
+API_HASH     = "224b0e0fbeb66e2365e8ee671b29bbbd"
+BOT_TOKEN    = "6243466625:AAHi4jMMa17bUxD708BUNkjghkFf4vLDrSQ"
+SESSION      = "BQCKq8QERGCUhx90xIX4w-VGN4MY0AFqaypRC_6wuXqvLmJLWDu0J4fwTBen3rwtg6AvsFQSNgDJPV8jH0rE3IB35J6DDylWmF2vBPwa2QhIYFDENvjyju3UDJGq5IUrldJw-ILPxnWkXeh-HIt3O5LytG0-aLW37k4CaR7dTiZ0VXdzb7-e_zivQA8aCj36Ajy48WxXnynzj6gCV4mbnqNRtSwc4Y2LJ_wCL0Tpc1dZdxMYmB9qsVdNfmfxLlWNr6ZRFyyt0Lf-qeqElI_Zj3AI7BRBynHM7NKO4jfsnj6Y6NIGm46l-6cnJcK7gWBRaL4rgZ-_5Z_sMWFpz85z_0TZAAAAATiPPwcA"
+DATABASE_URI = "mongodb+srv://NobitaAiBot:NobitaAiBot@cluster0.1xjctpp.mongodb.net/?retryWrites=true&w=majority"
+LOG_CHANNEL  = -1001944486965
+ADMIN        = 1583465089
+CHANNEL      = "@Bw_Dashboard"
